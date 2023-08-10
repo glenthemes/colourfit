@@ -224,7 +224,7 @@
     /*---------------------------*/
 
     .welcome-header {
-        display:block;
+        display:flex;
         margin:auto;
         margin-top:var(--Mobile-Nav-Height);
         margin-bottom:calc(0px - var(--Sections-Spacing-Y));
@@ -250,7 +250,6 @@
     }
 
     .welcome-header h1 {
-        margin-top:2rem;
         font-size:var(--Heading-Size-XL);
         max-width:none;
         transform: none;
