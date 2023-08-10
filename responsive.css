@@ -464,7 +464,7 @@
 @media(max-width: 672px){
     body {
         --Nav-Logo-Width: var(--Mobile-Nav-Logo-Width);
-        --Mobile-Hamburger-Size: var(--Mobile-Hamburger-Size);
+        --Mobile-Hamburger-Size: 1rem;
 
         --Header-Height: var(--Mobile-Header-Height);
 
